@@ -10,3 +10,6 @@ body {
 #contact_me {
 	font-size: 24px;
 }
+a:link a:visited {
+	color: blue;
+}

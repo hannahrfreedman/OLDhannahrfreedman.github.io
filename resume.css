@@ -1,0 +1,56 @@
+h1{
+	font-size: 40px;
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}	
+
+h2 {
+	font-size: 20px;
+}
+
+body {
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+	font-size: 16px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#name {
+	float: left;
+	width: 500px;
+}
+
+#contact_me {
+	font-size: 16px;
+	float: right;
+}
+
+#heading {
+	height: 50px;
+	margin-bottom: 55px;
+}
+
+#courses {
+	margin-left: 10px;
+}
+
+.title {
+	float: left;
+	font-weight: bold;
+}
+
+.location {
+	margin-left: 5px;
+	float: left;
+}
+
+.date {
+	float: right;
+}
+
+.title .location .body {
+	font-size: 16px;
+}
+
+.subheading {
+	font-style: italic;
+}
