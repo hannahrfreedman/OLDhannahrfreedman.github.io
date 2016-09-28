@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	font-size: 24px;
+}
+#name {
+	font-size: 40px;
+}
+#resume {
+	/*margin-top: 30px;*/
+	position: relative;
+	top: 25px;
+}
+img {
+	height: 400px; 
+	width: auto;
+	margin-top: 50px;
+}
+a {
+	border: 1px solid black;
+	border-radius: 3px;
+	color: black;
+	padding: 5px;
+	margin: 5px;
+	text-decoration: none;
+}
+a:visited {
+	color: black;
+}
